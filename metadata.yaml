@@ -1,0 +1,39 @@
+_repo: Cape-Breton-Tales_44257
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Smith, Edith
+    gutenberg_agent_id: '42656'
+    url: http://www.gutenberg.org/2009/agents/42656
+  illustrator:
+    agent_name: Wiard, Oliver M.
+    gutenberg_agent_id: '42657'
+    url: http://www.gutenberg.org/2009/agents/42657
+covers:
+- cover_type: archival
+  image_path: 44257-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Smith, Harry James
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '42655'
+    url: http://www.gutenberg.org/2009/agents/42655
+description: ''
+gutenberg_issued: '2013-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cape Breton Island (N.S.) -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: 'On the French shore of Cape Breton -- La Rose witnesseth: Of the
+  Bucherons. Of La Belle Mélanie. Of Siméon''s sons -- At a Breton calvaire -- The
+  privilege -- Their true love -- Garlands for Pettipaw -- Fly, my heart.'
+title: Cape Breton Tales
+url: http://www.gutenberg.org/ebooks/44257
